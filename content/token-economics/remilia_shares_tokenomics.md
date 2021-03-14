@@ -1,5 +1,5 @@
 ---
-title: "Remilia Shares"
+title: "Remilia Shares Tokenomics"
 order: 1
 ---
 
