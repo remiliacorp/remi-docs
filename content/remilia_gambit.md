@@ -1,5 +1,5 @@
 ---
-title: "Remilia Philosophy"
+title: "Remilia Gambit"
 order: 2
 ---
 
