@@ -1,3 +1,7 @@
+## [2.0.6](https://github.com/remiliacorp/boogi/compare/v2.0.5...v2.0.6) (2021-03-14)
+
+
+
 ## [2.0.5](https://github.com/remiliacorp/boogi/compare/v2.0.4...v2.0.5) (2021-03-14)
 
 
