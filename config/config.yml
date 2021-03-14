@@ -1,24 +1,21 @@
 ---
 metadata:
-  name: BooGi
-  short_name: BooGi
-  description: BooGi - awesome GitBook-like documentation generator using Gatsby
+  name: Remilia Docs
+  short_name: Remilia
+  description: Remilia - NFT Art Collective
   language: en
   pathPrefix: "/"
   siteImage:
   favicon: "/assets/favicon.png"
-  themeColor: "#ff0000"
+  themeColor: "#FFFF00"
 header:
   enabled: true
   logo: "/assets/code.svg"
   logoLink: "/"
   helpUrl: ""
   links:
-    - text: BooGi
-      link: https://github.com/filipowm/boogi
-      external: true
-    - text: Gatsby
-      link: https://www.gatsbyjs.org
+    - text: Remilia
+      link: https://remilia.org
       external: true
     - text: Docs
       link: "/"
@@ -32,8 +29,8 @@ sidebar:
   # expanded:
   groups:
     - order: 1
-      path: "/gettingstarted"
-      title: ":rocket: Getting Started"
+      path: "/token-economics"
+      title: "Remilia Token Economics"
     - order: 2
       path: "/configuration"
       title: ":wrench: Configuration"
@@ -46,16 +43,13 @@ sidebar:
     - order: 5
       path: "/developing"
       title: ":computer: Developing"
+     - order: 6
+      path: "/gettingstarted"
+      title: ":rocket: Getting Started"
   links:
-    - text: BooGi
-      link: https://github.com/filipowm/boogi
-    - text: React
-      link: https://reactjs.org
+    - text: Remilia
+      link: https://remilia.org
   ignoreIndex: false
-  poweredBy:
-    trademark: "/assets/gatsby.png"
-    name: GatsbyJS
-    link: https://www.gatsbyjs.org
 pwa:
   enabled: true
   manifest:
@@ -64,18 +58,16 @@ pwa:
     icon: "/assets/favicon.png"
 
 social:
-  github: https://github.com/filipowm/boogi
-  linkedin: https://www.linkedin.com/in/mateusz-filipowicz-437b4768/
-  twitter: twitter url
+  twitter: https://twitter.com/remiliacorp
 
 features:
   darkMode:
     enabled: true  
-    default: false
+    default: true
   editOnRepo:
     location: https://github.com/filipowm/boogi 
     type: github
-    editable: true
+    editable: false
   mermaid:
     language: "mermaid"
     theme: "dark"
@@ -97,14 +89,13 @@ features:
   propagateNetlifyEnv: true
   rss:
     enabled: true
-    title: BooGi Docs
+    title: Remilia Docs
     showIcon: false
-    copyright: "2020, Mateusz Filipowicz"
-    webMaster: "Mateusz Filipowicz"
-    managingEditor: "Mateusz Filipowicz"
+    copyright: "2021, Remilia Corp"
+    webMaster: "Remilia Corp"
+    managingEditor: "Remilia Corp"
     categories:
       - Docs as Code
-      - GatsbyJS
     ttl: 60
     matchRegex: "^/"
     outputPath: "/rss.xml"
