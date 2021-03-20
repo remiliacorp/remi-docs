@@ -38,14 +38,14 @@ sidebar:
       path: "/collective"
       title: "Remilia Collective"
     - order: 4
-      path: "/deployment"
-      title: ":rocket: Deployment"
+      path: "/philosophy"
+      title: "Remilia Collective Philosophy"
     - order: 5
-      path: "/developing"
-      title: ":computer: Developing"
+      path: "/projects"
+      title: "Remilia Projects"
     - order: 6
-      path: "/gettingstarted"
-      title: ":rocket: Getting Started"
+      path: "/community"
+      title: "Remilia Community"
   links:
     - text: Remilia
       link: https://remilia.org
@@ -65,7 +65,7 @@ features:
     enabled: true  
     default: true
   editOnRepo:
-    location: https://github.com/filipowm/boogi 
+    location: https://github.com/remiliacorp/remi-docs 
     type: github
     editable: false
   mermaid:
