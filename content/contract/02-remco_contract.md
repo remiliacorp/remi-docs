@@ -1,6 +1,6 @@
 ---
-Title: "The RemCo Contract"
-Order: 2
+title: "The RemCo Contract"
+order: 2
 ---
 
 Remilia Collective artists commit to exclusively selling NFT art on the Remilia Collection market, providing 20% flat commission to Remilia Corp and 10% additional into Remilia Co-op funding (70% final compensation) on every sale.

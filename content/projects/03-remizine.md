@@ -1,6 +1,6 @@
 ---
-Title: "RemiZine"
-Order: 3
+title: "RemiZine"
+order: 3
 ---
 
 ## RemiZine

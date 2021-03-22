@@ -1,6 +1,6 @@
 ---
-Title: "Remilia House"
-Order: 4
+title: "Remilia House"
+order: 4
 ---
 
 Production run goods

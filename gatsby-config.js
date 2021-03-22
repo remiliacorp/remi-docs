@@ -271,7 +271,7 @@ module.exports = {
       link: config.header.logoLink ? config.header.logoLink : '/',
       image: config.header.logo,
     }, // backwards compatible
-    headerTitle: config.metadata.name,
+    headertitle: config.metadata.name,
     helpUrl: config.header.helpUrl,
     headerLinks: config.header.links,
     siteUrl: config.metadata.url,

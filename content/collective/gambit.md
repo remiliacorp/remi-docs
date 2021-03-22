@@ -1,6 +1,6 @@
 ---
-Title: "NFT and the Art World Gambit"
-Order: 5
+title: "NFT and the Art World Gambit"
+order: 5
 ---
 
 ## Dispatch 0.1

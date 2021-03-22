@@ -1,6 +1,6 @@
 ---
-Title: "Jade Cabbage NFT"
-Order: 2
+title: "Jade Cabbage NFT"
+order: 2
 ---
 
 The Jade Cabbage is an ultra-rare NFT series consisting of one-of-a-kind 3D Model pieces produced by Remilia Corp itself, to be gifted to a single Emerald+ shareholder on a once a month basis.

@@ -22,7 +22,7 @@ header:
       external: false
 sidebar:
   enabled: true
-  # forcedNavOrder:
+  # forcedNavorder:
   #   - "/introduction"
   #   - "/configuration/basic"
   #   - "/configuration/advanced"

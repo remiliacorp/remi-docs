@@ -17,7 +17,7 @@ exports.createSchemaCustomization = ({ actions }) => {
       showMetadata: Boolean
       showPreviousNext: Boolean
       description: String
-      metaTitle: String
+      metatitle: String
       order: Int
     }
     type File implements Node {

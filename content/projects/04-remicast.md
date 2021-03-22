@@ -1,6 +1,6 @@
 ---
-Title: "RemiCast"
-Order: 3
+title: "RemiCast"
+order: 3
 ---
 
 Soph and Ali Podcast

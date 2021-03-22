@@ -1,6 +1,6 @@
 ---
-Title: "Remilia Collective Concept"
-Order: 1
+title: "Remilia Collective Concept"
+order: 1
 ---
 
 ## Incentive Design

@@ -1,6 +1,6 @@
 ---
-Title: "Remilia Philosophy"
-Order: 2
+title: "Remilia Philosophy"
+order: 2
 ---
 
 - Posting is the Art

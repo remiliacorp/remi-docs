@@ -1,6 +1,6 @@
 ---
-Title: "Remilia Colony"
-Order: 5
+title: "Remilia Colony"
+order: 5
 ---
 
 With the Remilia Trust formation, the Remilia Co-op fund will be drained empty. On NG+, there will be no quarterly payouts; the fund will act as a full investment portfolio, primarily towards the goal of buying land and property for the Remilia Colony.
