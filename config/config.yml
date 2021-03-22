@@ -37,7 +37,7 @@ sidebar:
     - order: 3
       path: "/projects"
       title: "Remilia Projects"
-   - order: 4
+    - order: 4
       path: "/investment_scheme"
       title: "Investment Scheme"
     - order: 5
