@@ -2,9 +2,8 @@
 title: Roadmap
 ---
 
-|                                    |                                                |                                       |                                                          |   |
-|------------------------------------|------------------------------------------------|---------------------------------------|----------------------------------------------------------|---|
 | Pre-Launch                         | Q1                                             | Q2                                    | Q3                                                       |   |
+|------------------------------------|------------------------------------------------|---------------------------------------|----------------------------------------------------------|---|
 | Deploy onto Social Media Platforms | Initial Artist Works Auction                   | Launch Remilia Gallery                | Launch Remilia Island social server                      |   |
 | Build Remilia Market Frontend      | Begin Jade Cabbage NFT production              | Launch $REMI Coin Contract            | Complete Remilia Island private complexes POC            |   |
 | Iron out Tokenomics                | Launch Remilia TCG                             | Launch Remilia Live Chat              | Increase development team to support project development |   |
