@@ -4,14 +4,14 @@ const colors = {
   ...defaultColors,
 
   primary: defaultColors.orange,
-  primaryDark: defaultColors.blue,
+  primaryDark: defaultColors.white,
   font: '#f3f3f3',
   fontDark: '#ffffff',
-  background: '#000000',
-  mainBackground: '#303022',
+  background: '#303022',
+  mainBackground: '#000000',
   border: '#ffb500',
   hover: defaultColors.orange,
-  shadow: defaultColors.gray + '33',
+  shadow: defaultColors.white + '33',
 };
 
 export default {
