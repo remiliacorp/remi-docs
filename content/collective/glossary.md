@@ -1,6 +1,6 @@
 ---
 Title: "Concept Glossary"
-Order: 2
+Order: 3
 ---
 
 ## Collaborative Abundance Network

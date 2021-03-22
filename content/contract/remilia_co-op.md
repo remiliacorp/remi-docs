@@ -2,6 +2,7 @@
 Title: "Remilia Co-op Fund"
 Order: 3
 ---
+
 Remilia Co-op is formed of 1 equal share provided to each artist in the Remilia Collective. The Co-op is an investment portfolio contributed to in all Collection sales. Quarterly, interest earnings will be redistributed to Co-op members equally.
 
 The goal of the fund is two-fold: reach a point where members of the co-op can each have their livelihood supported by the Co-op fund to allow full-time focus on their work, and encourage a collaborative family, such that if one person comes up, we all do.
