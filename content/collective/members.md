@@ -1,5 +1,5 @@
 ---
-title: "RemCo Members"
+title: "Members"
 order: 1
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Gambit
+title: The Remilia Gambit Dispatch
 order: 4
 ---
 ## Dispatch 0.1
