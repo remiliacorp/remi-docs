@@ -9,6 +9,15 @@ Every artist will have their own page with a bio & cv link, galleries for curren
 
 Remilia Collective artists will present exclusively on our Collection. We may also host guest works. It will be tightly curated - Remilia Corp will control uploads/takedowns in collaboration with the artist; the artist will not upload anything themselves.
 
+## Minting
+
+## Metadata
+
+The following tags will be tied to each NFT:
+- Artist
+- 
+
+
 ## Remilia Residency
 
 Artists will be provided residency to show works in Remilia Market for the season. 

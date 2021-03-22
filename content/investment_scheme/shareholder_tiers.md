@@ -1,6 +1,6 @@
 ---
 title: "Shareholder Tiers"
-order: 1
+order: 2
 ---
 
 Benefits are allotted to Shareholders, categorized into Shareholder tiers, determined by the number of RST held in a single wallet.
