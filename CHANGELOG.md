@@ -1,3 +1,7 @@
+## [2.0.54](https://github.com/remiliacorp/remi-docs/compare/v2.0.53...v2.0.54) (2021-03-22)
+
+
+
 ## [2.0.53](https://github.com/remiliacorp/remi-docs/compare/v2.0.52...v2.0.53) (2021-03-22)
 
 
