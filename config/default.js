@@ -20,7 +20,7 @@ module.exports = {
   sidebar: {
     enabled: true,
     ignoreIndex: true,
-    forcedNavorder: [],
+    forcedNavOrder: [],
     expanded: [],
     groups: [],
     links: [],
