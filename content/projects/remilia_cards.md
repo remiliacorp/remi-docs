@@ -1,6 +1,6 @@
 ---
 title: "Remilia: The Card Game"
-order: 2
+order: 1
 ---
 
 Ome Onno will produce a series of trading cards sold as collectable NFTs in a fictional card game inspired by Magic: The Gathering's game-breaking meta exploit community.
