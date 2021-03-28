@@ -15,3 +15,10 @@ Commodifiability of art isn't important for the cash, but the legitimacy the mar
 How the real art world is, its stratified, institutional, bureacratic, careful and conservative -- they've completely lost relevance in commentary for the contemporary, the digital world is lost to them even as it takes over the real. All the real, true artists -- who live every aspect of their lives as "art" -- are completely demoralized from actually producing; but they do make it, every day, in everything they do, from any shitpost to any way they spend their day. The art world market (and its almost total death of critics) just has fallen too far behind to understand it and recognize it as such.
 
 But NFT is inevitable to be adopted by the irl art world due to it fixing real issues of provenance and sale, so the NFT art world and irl art world will quickly get integrated. We're going to sidestep the irl art world, get clouted in NFT, so when the integration happens, we're sitting on top, and they'll be forced to accept our new mode of art, posting. That's the Remilia gambit.
+
+## Dispatch 0.2
+
+I want to affirm we are first real net artists and that everything prior was still confined by the strictures of modernity. Everything the former net artists did was still in relation to modern art which is just a process of constant innovation—it’s simply change for the sake of change, change is the only driving force. but we have untethered ourselves with a project that actually could only ever be online, that isn’t just about a new aesthetic approach but an entirely new methodology that won’t just change what’s trending on art forum. it will change the world
+
+ the entire remco ethos of collective decentralized network logic, self sovereign marketplace design and anti authorship. a lot of it hinges on the artistry of the economic structure of remco itself- in essence you build a process that involves creative and synced individuals and then “work” generates itself
+

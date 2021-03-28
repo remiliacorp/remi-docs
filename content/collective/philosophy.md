@@ -6,16 +6,16 @@ order: 1
 
 ## What does Remilia Believe?
 
-- Posting is the Art
-- Lifestyle is the Manifesto
-- Collaboration is the Abundance Mindset
+- Posting is the New Art
+- Abundance Mindset
 - Embrace the Network, Against Authorship
 - White Heart: Love and Optimism
+- Living is the Art, Lifestyle the Manifesto
 - Orientalism is In: Romanticism, Mysticism, Shamelessness
 - Glee Mode
 - Longpost into the Heart
-
-![](2021-03-21-18-38-53.png)
+- Every Medium is Creative
+ 
 
 ## Conceptual Glossary
 
