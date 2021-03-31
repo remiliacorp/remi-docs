@@ -24,6 +24,8 @@ header:
       link: https://remilia.org
     - text: Chat
       link: https://chat.remilia.org
+    - text: TCG Wiki
+      link: https://remilia.fandom.com/
 sidebar:
   enabled: true
   # forcedNavorder:
