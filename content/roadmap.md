@@ -11,7 +11,7 @@ order: 1
 | Iron out Tokenomics                | Launch Remilia TCG                             | Launch Remilia Live Chat              | Increase development team to support project development |   |
 | Launch Founding Shares Sale        | Initiate Collaborative Pieces for Shareholders | Begin Remilia Artist Residencies      | Partner with NFT gaming related organizations            |   |
 | Launch Remilia Community Chat      | Launch RemiCast Season 1                       | Complete Remilia Island POC           | Begin land sales for Remilia Island                      |   |
-|                                    |                                                | Roll-out sub-collective galleries     |                                                          |   |
+| Gallery Show Soft Launch           |                                                | Roll-out sub-collective galleries     |                                                          |   |
 |                                    |                                                | Launch Remilia TCG crafting mechanism |                                                          |   |
 |                                    |                                                | Begin RemiZine production             |                                                          |   |
 |                                    |                                                |                                       |                                                          |   |

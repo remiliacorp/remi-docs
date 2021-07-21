@@ -1,6 +1,6 @@
 ---
 title: Dispatches
-order: 3
+order: 5
 ---
 
 Dispatches are any NFT communications distributed to every Remilia Shareholder. Note that unlike [Art Drops](art_drops), holding more shares will not entitle a shareholder to more copies of any given dispatch - only one dispatch is provided to each walley that contains at least on or more Remilia Share.

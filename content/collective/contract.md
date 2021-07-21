@@ -4,15 +4,15 @@ order: 4
 draft: true
 ---
 
-For transparency, a summary of the terms of the Remilia Collective contract agreed upon by all Remilia Collective artists is provided.
+A summary of the terms of the planned Remilia Collective contract agreed upon by all Remilia Collective artists.
 
 ## Terms
 
 Remilia Collective artists commit to exclusively selling NFT art on the Remilia Collection market, providing 20% flat commission to Remilia Corp and 10% additional into Remilia Co-op funding (70% final compensation) on every sale.
 
-Remilia Corp will match 5-10% funding into the Remilia Co-op (effective Co-op contribution = 15-20% total of all NFT sales), with the remainder retained for Remilia Corp's working capital for operations and project investments.
+Remilia Corp may match ~5-10% funding into the Remilia Co-op (to make effective Co-op contribution = 15-20% total of all NFT sales), with the remainder retained for Remilia Corp's working capital for operations and project investments.
 
-Ownership of a work is transferred to Remilia Corp on consignment when it is delivered to the Market and the NFT is created on OpenSea, with payment distributed back to the artist from Remilia Corp as a portion of the sale on first sale.
+Ownership of a work is transferred to Remilia Corp on consignment when it is delivered to the Market and the NFT is minted, with payment distributed back to the artist from Remilia Corp as a portion of the sale on first sale.
 
 ## Co-Op Fund
 
@@ -32,7 +32,7 @@ The Co-op will meet virtually once a quarter where Remilia Collection sales and 
 
 At the quarterly meeting, any Artists can choose to sell out of the collective by exchanging their Co-op share in exchange for their lifetime contribution to the co-op (10% of NFT sales) minus lifetime co-op payouts; lifetime contribution resetting on the formation of the Remilia Trust.
 
-### Note: Remilia Co-Op Investment Scheme
+### Note: Remilia Co-Op Investment Schedule
 
 The first year or so will not have interest redistribution and an increased RemCorp contribution (10% match = 20% of all NFT sales) to focus on building the fund; we will probably hold a high-risk crypto portfolio until a certain number is reached, and then progressively move the portfolio towards lower risk investments where interest can safely accumulate.
 
@@ -40,7 +40,7 @@ The first year or so will not have interest redistribution and an increased RemC
 
 ## Remilia Trust
 
-The Remilia Trust will be initiated once the Remilia Co-op's fund hits a target number, at which point the Co-op fund will be re-organized into a series of equal, individual trusts for each member paying out interest monthly until death.
+The Remilia Trust will be initiated once the Remilia Co-op's fund hits a TBD target number, at which point the Co-op fund will be re-organized into a series of equal, individual trusts for each member paying out interest monthly until death.
 
 ![How much is a live-in Catmaid's salary?](2021-03-21-18-37-33.png)
 
