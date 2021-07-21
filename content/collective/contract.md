@@ -1,6 +1,7 @@
 ---
 title: "The Contract"
 order: 4
+draft: true
 ---
 
 For transparency, a summary of the terms of the Remilia Collective contract agreed upon by all Remilia Collective artists is provided.

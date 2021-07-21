@@ -3,6 +3,7 @@ title: "Remilia Philosophy"
 order: 1
 ---
 ## What is Remilia?
+
 We are an embodiment — We're God's little warriors, We're network kommandos. We're whitepilled. We're lawyered up, in the court of clout. Nothing we can do can be cringe, except when it is and then we don't care, we don't care. We're live laugh lovers, and we put all our points into karma, charm and beauty. We're cDJs, we're fashion models, we're microdosers, and supplement freaks. We're lindy, we're Wired, we're Not in Employment Education or Training. We're viral cryptoxillionaires. We don't have to try. We're the new art.
 
 And so we self-organized into Remilia.

@@ -1,6 +1,8 @@
 ---
 title: Gambit
 order: 2
+draft: true
+
 ---
 ## Letter from Remilia Jackson
 
