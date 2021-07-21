@@ -6,12 +6,17 @@ order: 0
 
 ## Background
 
-![Remilia Jackson, Remilia Collective Founder](2021-03-21-18-38-39.png)
+![Remilia Jackson, Remilia Collective Founder](2021-03-21-18-38-39.png) ![Remilia Jackson, Remilia Collective Founder](2021-03-21-18-38-39.png)
+
 
 
 ### History
 
+Remilia Collective was founded on 1/11/21 by Remilia Jackson, organizing a group of disparate net artists who shared a unified vision described in the [New Art Manifesto]. The motivation behind the collective's initialization was the opportunity identified in the burgeoning NFT art space to sidestep institutional barriers preventing outsider net artists from presenting their work. The co-operative fund DAO was conceptualized to commit to an expression of abundance and collaboration.
+
 ### Members
+
+
 
 ## Remilia is an Institution
 
