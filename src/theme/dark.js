@@ -11,7 +11,7 @@ const colors = {
   mainBackground: '#000000',
   border: '#ffb500',
   hover: defaultColors.orange,
-  shadow: defaultColors.black + '33',w
+  shadow: defaultColors.black + '33',
 };
 
 export default {
