@@ -1,7 +1,7 @@
 ---
 title: "Introduction"
 order: 0
-draft:true
+draft: true
 ---
 
 Remilia is first and foremost a private art gallery - Remilia Market - exclusively representing a unique collective of artists - The Remilia Collective - in the digital NFT space.
