@@ -3,12 +3,12 @@ title: "Remilia Philosophy"
 order: 1
 ---
 ## What is Remilia?
-```
+
 We are an embodiment — We're God's little warriors, We're network kommandos. We're whitepilled. We're lawyered up, in the court of clout. Nothing we can do can be cringe, except when it is and then we don't care, we don't care. We're live laugh lovers, and we put all our points into karma, charm and beauty. We're cDJs, we're fashion models, we're microdosers, and supplement freaks. We're lindy, we're Wired, we're Not in Employment Education or Training. We're viral cryptoxillionaires. We don't have to try. We're the new art.
 
 And so we self-organized into Remilia.
 
-Remilia is an institution. Remilia, is a self-organization. Remilia is a lifestyle brand. Remilia, is a master-planned community. Remilia is an investment fund. Remilia is an artist's colony. Remilia is a crowdfunded video game. Remilia is an autonomous smart contract. Remilia is an independent record label. Remilia is a community center for the digital village. Remilia is a manifesto. Remilia will save the internet.```
+Remilia is an institution. Remilia, is a self-organization. Remilia is a lifestyle brand. Remilia, is a master-planned community. Remilia is an investment fund. Remilia is an artist's colony. Remilia is a crowdfunded video game. Remilia is an autonomous smart contract. Remilia is an independent record label. Remilia is a community center for the digital village. Remilia is a manifesto. Remilia will save the internet.
 
 *- [I Long For Network Spirituality](https://ilongfornetworkspirituality.net/), Opening text*
 
@@ -24,14 +24,13 @@ Remilia is an institution. Remilia, is a self-organization. Remilia is a lifesty
 
 ## What is the Remilia Gambit?
 
-```This generation is experiencing an abundance of online artists -- true artists, who live every aspect of their lives as art -- at the same time that they are demoralized from producing in any frame compatible with the art world; but they do make it, every day, in everything they do. They see the art world as stratified, institutional, bureacratic, careful and conservative -- they've lost relevance in commentary for the contemporary and no longer exist in a position as the upstream of culture; the digital world isn't understood by them even as it takes over the real.
+This generation is experiencing an abundance of online artists -- true artists, who live every aspect of their lives as art -- at the same time that they are demoralized from producing in any frame compatible with the art world; but they do make it, every day, in everything they do. They see the art world as stratified, institutional, bureacratic, careful and conservative -- they've lost relevance in commentary for the contemporary and no longer exist in a position as the upstream of culture; the digital world isn't understood by them even as it takes over the real.
 
 Commodifiability of art isn't important for the money, but the legitimacy the market provides it, enabling its appreciation and consumption. Until an art can be rendered into institutional lens, it struggles to receive due appreciation.
 
 NFT widens the range of sellable "mediums" to the most abstracted possible. Like Duchamp's signature on a readymade, the act of minting an NFT turns anything into work - now with no barrier to being shown as such in a gallery context. The NFT Art World is the first time in decades that the art world has been in a serious position of disruption. While it exists today as largely parallel to the "real" art world, I believe it's inevitable for NFT technology to be integrated due to fixing real issues of provenance.*
 
 When this happens, we're sitting on a well-established model that can be accepted as the new form. We now have the power to teach the world to appreciate our body of works, as they are. That's the Remilia gambit. Remilia is reclaiming what's ours.
-```
 
 *- Email from Remilia Jackson, 1.18.21:*
 
